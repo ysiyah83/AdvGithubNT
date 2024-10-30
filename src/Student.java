@@ -8,5 +8,5 @@ public class Student {
     //techpro 4
     //--------------------
 
-    //dev2 nin kodları
+//yeni kodlar
 }
